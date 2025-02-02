@@ -46,4 +46,4 @@ jobs:
         run: |
           python garmin-activities.py
           python personal-records.py
-          daily-steps.py
+          python daily-steps.py
